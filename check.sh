@@ -2335,16 +2335,16 @@ function ScriptTitle(){
 	if [[ "$language" == "English" ]];then
 		echo -e "【Stream Platform & Game Region Restriction Test】";
 		echo ""
-		echo -e "${Font_Green}Github Repository:${Font_Suffix} ${Font_Yellow} https://github.com/lmc999/RegionRestrictionCheck ${Font_Suffix}";
-		echo -e "${Font_Green}Telegram Discussion Group:${Font_Suffix} ${Font_Yellow} https://t.me/gameaccelerate ${Font_Suffix}";
+		echo -e "${Font_Green}Github Repository:${Font_Suffix} ${Font_Yellow} https://github.com/visense/RegionRestrictionCheck ${Font_Suffix}";
+		echo -e "${Font_Green}Subscribe me:${Font_Suffix} ${Font_Yellow} https://bit.ly/2UhmX4O ${Font_Suffix}";
 		echo ""
 		echo -e " ** Test Starts At: $(date)";
 		echo ""
 	else
 		echo -e "【流媒体平台及游戏区域限制测试】";
 		echo ""
-		echo -e "${Font_Green}项目地址${Font_Suffix} ${Font_Yellow}https://github.com/lmc999/RegionRestrictionCheck ${Font_Suffix}";
-		echo -e "${Font_Green}BUG反馈或使用交流可加TG群组${Font_Suffix} ${Font_Yellow}https://t.me/gameaccelerate ${Font_Suffix}";
+		echo -e "${Font_Green}项目地址${Font_Suffix} ${Font_Yellow}https://github.com/visense/RegionRestrictionCheck ${Font_Suffix}";
+		echo -e "${Font_Green}订阅我的Youtube频道${Font_Suffix} ${Font_Yellow}https://bit.ly/2UhmX4O ${Font_Suffix}";
 		echo ""
 		echo -e " ** 测试时间: $(date)";
 		echo ""
